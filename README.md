@@ -16,3 +16,7 @@ Con esta implementación, se alcanzó una posición en el Top 104 (de más de 70
 Puedes encontrar los datos en el apartado /data de la competción de Kaggle:
 
 https://www.kaggle.com/competitions/home-data-for-ml-course
+
+**Autor:**
+- Nathan Prados Tapia
+- Linkedin: https://www.linkedin.com/in/nathan-prados-tapia-a3107a341/
