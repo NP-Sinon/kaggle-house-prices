@@ -11,7 +11,7 @@ La solución implementa un pipeline completo de Machine Learning que incluye:
 - Generación del archivo de submisión (`submission.csv`).
 
 **Resultado en Kaggle:**
-Con esta implementación, se alcanzó una posición en el Top 104 (de más de 7000 participantes) en la leaderboard de la competición "Housing Prices Competition for Kaggle Learn Users" de Kaggle, con un score de 12806.03997.
+Con esta implementación, se alcanzó una posición en el Top 55 (de más de 6000 participantes) en la leaderboard de la competición "Housing Prices Competition for Kaggle Learn Users" de Kaggle, con un score de 12677.55606.
 
 Puedes encontrar los datos en el apartado /data de la competción de Kaggle:
 
