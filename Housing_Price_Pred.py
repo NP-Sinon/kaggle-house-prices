@@ -249,12 +249,11 @@ def main():
         submission['SalePrice'] = submission['SalePrice'].clip(lower=0)
 
         submission.to_csv('submission.csv', index=False)
-        logger.info("✅ Archivo 'submission.csv' generado con éxito!")
 
     except FileNotFoundError:
         logger.error("Error: train.csv or test.csv not found. Please ensure they are in the correct directory.")
     except Exception as e:
-        logger.error(f"An unexpected error occurred: {e}", exc_info=True)
+        logger.error(f"Error ######### : {e}", exc_info=True)
 
 if __name__ == "__main__":
     main()
